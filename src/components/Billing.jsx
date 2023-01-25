@@ -14,8 +14,7 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+        Easily control your <br className="sm:block hidden" /> Social media or Business
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         The perfect agency to help you to grow your website, business or any social media platform.
