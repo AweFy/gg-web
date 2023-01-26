@@ -9,10 +9,10 @@ const FeatureCard = ({ icon, title, content, index }) => (
     </div>
     <div className="flex-1 flex flex-col ml-3">
       <h4 className="font-poppins font-semibold text-white text-[18px] leading-[23.4px] mb-1">
-        Hi
+        {title}
       </h4>
       <p className="font-poppins font-normal text-dimWhite text-[16px] leading-[24px]">
-        Bye
+        The best SMMA agency to deal with, offering professional management and diversified payment options.
       </p>
     </div>
   </div>
