@@ -47,16 +47,16 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+      "Marketing is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    name: "Mushfiqur Rahman",
     title: "Founder & Leader",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+      "Marketing makes your life easier. If you're lucky to have it, you're lucky.",
+    name: "Saad",
     title: "Founder & Leader",
     img: people02,
   },
@@ -79,12 +79,12 @@ export const stats = [
   {
     id: "stats-2",
     title: "Trusted by Company",
-    value: "230+",
+    value: "20+",
   },
   {
     id: "stats-3",
     title: "Transaction",
-    value: "$230M+",
+    value: "$230k+",
   },
 ];
 
