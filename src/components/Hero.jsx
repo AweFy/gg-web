@@ -28,9 +28,8 @@ const Hero = () => {
           Marketing
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+          Our team of experts uses the best and the most innovative way to manage your business, social media account. Our examonation and decision making skill can help you to boost your business
+ growth.
         </p>
       </div>
 
