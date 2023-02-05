@@ -12,7 +12,7 @@ const FeatureCard = ({ icon, title, content, index }) => (
         {title}
       </h4>
       <p className="font-poppins font-normal text-dimWhite text-[16px] leading-[24px]">
-        The best SMMA agency to deal with, offering professional management and diversified payment options.
+        {content}
       </p>
     </div>
   </div>
