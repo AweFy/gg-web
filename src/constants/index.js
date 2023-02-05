@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We will offer you discounts in our plan when you will become our long time ally.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We take proactive steps make sure your growth has constant boost.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Balanced rate",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "We support our creators and small business owner thats why our rates are negotiable for small business owner, adding up to 70% discount",
   },
 ];
 
@@ -63,7 +63,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "It is usually people in the marketing business, finance, and international trade that are really helpful",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
